@@ -11,7 +11,7 @@ module.exports = {
 	submissionsNotSet: "Submissions have not been set, please contact your server administrator",
 	applicationCancel: "Application canceled.",
 	applicationFormFalseCancel: "You have not started an application form yet.",
-	applicationSent: "Congratulations your application has been sent!",
+	applicationSent: "Congratulations your application has been sent! Thank you for choosing ULTRA",
 	formSetupInProgress: "Someone else is already configuring the form.",
 	newFormSetup: "The new form has been setup.",
 	formReceiveMessage: params => `${params.user} has submitted a form.`,
